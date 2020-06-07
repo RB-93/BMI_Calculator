@@ -16,7 +16,7 @@ fun buildFromBmiClass() {
 
     // Exception handling for invalid values entered by the user
     try {
-        print("Enter your weight: ")
+        print("Enter your weight (in kg): ")
         weight = inputReader.nextDouble()
 
         print("Enter your height (in cms): ")
