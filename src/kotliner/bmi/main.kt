@@ -9,9 +9,12 @@ fun main() {
 
 // Function to get weight and height values from user
 fun buildFromBmiClass() {
+
+    // Variables to store weight and height values of any type with nullability check
     var weight: Any? = 0.0
     var height: Any? = 0.0
 
+    // Scanner object to scan inputs from console
     val inputReader = Scanner(System.`in`)
 
     // Exception handling for invalid values entered by the user
