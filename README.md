@@ -1,7 +1,7 @@
 # BMI_Calculator
 This is a project on **#30DaysOfKotlin** program by **Google**. This Kotlin program calculates BMI and displays health status based on the weight and the height.
 
-The motivation and inspiration behind this project is the Google's **#30DaysOfKotlin** program. As Kotlin is a *highly expressive language* and the same has attracted my mind towards it!
+The motivation and inspiration behind this project is the Google's **#30DaysOfKotlin** program. As Kotlin is a *highly expressive language* and the same has attracted me towards it!
 
 ### Screenshots
 ![alt text](https://github.com/RB-93/BMI_Calculator/blob/master/src/out/BMI_out.png?raw=true)
